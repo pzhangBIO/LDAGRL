@@ -1,6 +1,8 @@
 LDAGRL
 
-A lncRNA-disease association prediction tool development based on bridge heterogeneous information network via graph representation learning for family medicine and primary care (LDAGRL)/<br>
+A lncRNA-disease association prediction tool development based on bridge heterogeneous information network via graph representation learning for family medicine and primary care
+
+
 
 
 
