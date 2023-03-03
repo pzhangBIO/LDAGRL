@@ -54,7 +54,7 @@ Example：
 
     Specifically, you can:
 
-    cd example/
+    cd Example/
    
     cd TrainTestAttribute/
        run TrainTestAttribute.py
