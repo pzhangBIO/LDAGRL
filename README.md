@@ -6,7 +6,8 @@ A lncRNA-disease association prediction tool development based on bridge heterog
 
 
 Data: 
-Five types of biomedical entities feature information and nine kinds of biomedical entity associations information.
+
+    Five types of biomedical entities feature information and nine kinds of biomedical entity associations information.
 -----------------------------------------------------------------------------------------------------------
 
 Code: 
