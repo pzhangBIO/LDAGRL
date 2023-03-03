@@ -9,7 +9,7 @@ Data:
 Five types of biomedical entities feature information and nine kinds of biomedical entity associations information.
 -----------------------------------------------------------------------------------------------------------
 
-Code:
+Code: 
 
     The source code of LDAGRL_SDNE:
 
