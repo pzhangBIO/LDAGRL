@@ -25,10 +25,6 @@ Code:
         -----------------
                A Open-source framework for conducting graph embedding inclding SDNE,node2vec,deepwalk etc.
     
-
-     The source code of LDAGRL_GCN:
-
-        Training and prediction codes
 ------------------------------------------------------------------------------------------------------------
 
 
